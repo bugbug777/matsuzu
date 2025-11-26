@@ -9,7 +9,7 @@ tags:
 categories: []
 keywords:
     - Matsuzu
-fmContentType: posts
+fmContentType: default
 ---
 
 
