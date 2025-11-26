@@ -5,4 +5,4 @@ theme = 'ananke'
 
 [services]
   [services.googleAnalytics]
-    id = 'G-TGSPYX8ZYZ
+    id = 'G-TGSPYX8ZYZ'
