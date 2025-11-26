@@ -2,3 +2,7 @@ baseURL = 'https://blog.sihle.cc/'
 languageCode = 'zh-Hant-TW'
 title = 'Matsuzu'
 theme = 'ananke'
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-TGSPYX8ZYZ
