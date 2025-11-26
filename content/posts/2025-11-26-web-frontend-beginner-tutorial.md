@@ -2,7 +2,7 @@
 title: Web Frontend Beginner Tutorial
 description: 讓你擁有操控 HTML、CSS、JS 的超能力
 date: 2025-11-26T11:59:29.317Z
-featured_image: /do-something-great.jpg
+featured_image: /images/do-something-great.jpg
 draft: false
 tags:
     - CSS
