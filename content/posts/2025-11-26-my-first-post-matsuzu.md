@@ -10,6 +10,8 @@ categories: []
 keywords:
     - Matsuzu
 fmContentType: default
+images:
+    - "https://blog.sihle.cc/images/matsuzu.png"
 ---
 
 
