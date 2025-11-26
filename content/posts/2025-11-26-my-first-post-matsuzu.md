@@ -2,19 +2,22 @@
 title: Matsuzu First Post
 description: 這是 Matsuzu 網站建立的第一篇貼文
 date: 2025-11-26T07:30:55.323Z
-preview: /bird.jpg
+featured_image: /bird.jpg
 draft: false
 tags:
     - Matsuzu
 categories: []
 keywords:
     - Matsuzu
+fmContentType: posts
 ---
 
 
 # Matsuzu 是什麼？
 
 Matsuzu 是這個網站的名稱，我很喜歡松樹以及鶴這種生物，雖然好像沒有什麼比較具體的原因，但是就是給人有種日本風的感覺，我很喜歡，所以取了這樣的一個名字作為網站名稱。
+
+<!--more-->
 
 ## 我誰？
 
