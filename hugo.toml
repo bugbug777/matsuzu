@@ -3,6 +3,8 @@ languageCode = 'zh-Hant-TW'
 title = 'Matsuzu'
 theme = 'ananke'
 
+enableRobotsTXT = true
+
 [services]
   [services.googleAnalytics]
     id = 'G-TGSPYX8ZYZ'
