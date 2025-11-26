@@ -24,6 +24,8 @@ keywords:
 fmContentType: posts
 toc: true
 omit_header_text: true
+images:
+    - "https://blog.sihle.cc/images/matsuzu.png"
 ---
 
 歡迎來到前端世界！當我們瀏覽網頁時，無論是查看新聞、購物，還是觀看影片，我們所看到的一切文字、圖片、按鈕、互動效果，都是由三種基礎技術協同工作所產生的。這三位黃金搭檔就是：**HTML (結構)、CSS (樣式) 和 JavaScript (行為)**。
