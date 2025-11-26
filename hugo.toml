@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.sihle.cc/'
 languageCode = 'zh-Hant-TW'
 title = 'Matsuzu'
 theme = 'ananke'
