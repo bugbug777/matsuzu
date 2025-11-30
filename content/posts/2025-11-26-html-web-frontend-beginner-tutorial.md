@@ -2,7 +2,9 @@
 title: HTML | Web Frontend Beginner Tutorial
 description: HTML 是網頁的骨架，讓整個畫面更有結構
 date: 2025-11-26T13:00:44.516Z
-featured_image: /do-something-great.jpg
+featured_image: /images/do-something-great.jpg
+images: 
+  - "/images/matsuzu.png"
 draft: true
 tags:
   - Beginner
@@ -11,7 +13,10 @@ tags:
 categories:
   - Web
   - Frontend
-keywords: Matsuzu
+keywords:
+  - html
+  - Matsuzu
+  - frontend
 fmContentType: posts
 toc: true
 omit_header_text: true

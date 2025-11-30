@@ -107,6 +107,21 @@
           "title": "fmContentType",
           "name": "fmContentType",
           "type": "string"
+        },
+        {
+          "title": "toc",
+          "name": "toc",
+          "type": "boolean"
+        },
+        {
+          "title": "omit_header_text",
+          "name": "omit_header_text",
+          "type": "boolean"
+        },
+        {
+          "title": "images",
+          "name": "images",
+          "type": "image"
         }
       ]
     }
@@ -117,5 +132,8 @@
       "path": "[[workspace]]/content/posts"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": true,
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.preview.host": "http://localhost:1313"
 }
